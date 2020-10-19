@@ -15,7 +15,7 @@ The bubble sorting algorithm is one of the easiest to learn and that is the firs
 5. Display the entire log of changes one on top of each other.
 
 This animation shows how your application should look like:
-![Bubble Sorting Cards on a website](https://projects.breatheco.de/json?slug=sorting-cards-with-bubble&preview)
+![Bubble Sorting Cards on a website](https://github.com/breatheco-de/exercise-sorting-cards-with-bubble/blob/master/preview.gif?raw=true)
 
 ## 💡 Hint:
 
