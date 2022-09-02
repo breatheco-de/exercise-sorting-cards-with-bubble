@@ -29,7 +29,7 @@ git clone  git clone https://github.com/4GeeksAcademy/vanillajs-hello
 5. Muestra el registro completo de cambios uno encima del otro.
 
 Esta es una animación de cómo debería verse su aplicación:
-![Bubble Sorting Cards on a website](https://projects.breatheco.de/json?slug=sorting-cards-with-bubble&preview)
+![Bubble Sorting Cards on a website](https://github.com/breatheco-de/exercise-sorting-cards-with-bubble/blob/master/preview.gif?raw=true)
 
 Pista:
 
