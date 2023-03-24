@@ -33,7 +33,8 @@ $ git clone https://github.com/4GeeksAcademy/vanillajs-hello
 5. Display the entire log of changes, one on top of the other.
 
 This animation shows how your application should look like:
-![Bubble Sorting Cards on a website](./preview.gif?raw=true)
+
+![Bubble Sorting Cards on a website](https://raw.githubusercontent.com/breatheco-de/exercise-sorting-cards-with-bubble/master/preview.gif)
 
 ## 💡 Hint:
 
