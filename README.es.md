@@ -12,6 +12,7 @@ No clones este repositorio. El primer paso para comenzar a codificar es clonar e
 a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/vanillajs-hello).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+
 ```sh
 git clone  git clone https://github.com/4GeeksAcademy/vanillajs-hello
 ```
@@ -29,6 +30,7 @@ git clone  git clone https://github.com/4GeeksAcademy/vanillajs-hello
 5. Muestra el registro completo de cambios uno encima del otro.
 
 Esta es una animación de cómo debería verse su aplicación:
+
 ![Bubble Sorting Cards on a website](https://raw.githubusercontent.com/breatheco-de/exercise-sorting-cards-with-bubble/master/preview.gif)
 
 Pista:
