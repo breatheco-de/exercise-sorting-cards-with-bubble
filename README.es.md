@@ -9,7 +9,7 @@ El algoritmo de clasificación de burbujas es uno de los más fáciles de aprend
 
 ## 🌱  Cómo iniciar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu compjutador local o con Gitpod.
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu computador local o con Gitpod.
 
 a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/vanillajs-hello).
 
