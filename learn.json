@@ -6,7 +6,7 @@
 	"solution": "https://jsfiddle.net/BreatheCode/x53kugn2/116/",
 	"preview": "https://github.com/breatheco-de/exercise-sorting-cards-with-bubble/blob/master/thumb.png?raw=true",
 	"duration" : 8,
-	"template_url": "https://github.com/breatheco-de/excuse-generator-javascript-cli",
+	"template_url": "https://github.com/4GeeksAcademy/vanillajs-hello",
 	"difficulty": "intermediate",
 	"technologies": ["sorting-algorithms", "html/css", "javascript"],
 	"syntax": ["vanilla.js"],
