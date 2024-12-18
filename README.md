@@ -7,17 +7,15 @@ Sorting is considered to be an important concept in many programming languages, 
 The bubble sorting algorithm is one of the easiest to learn, and that is the first one normally taught. Here is a 5min explanation of how the bubble algorithm works:
 [https://www.youtube.com/watch?v=xli_FI7CuzA](https://www.youtube.com/watch?v=xli_FI7CuzA)
 
-VANILLAJS BOILERPLATE ENGLISH
-
 <onlyfor saas="false" withBanner="false">
     
 ## 🌱  How to start this project
 
-Do not clone this repository. The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or opening it using gitpod.
+Do not clone this repository! You will be using another template.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).
+We recommend opening the `vanillajs boilerplate`, using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can [clone the GitHub repository](https://4geeks.com/how-to/github-clone-repository) on your local computer using the `git clone` command.
 
-b) If working locally, type the following command from your command line:
+This is the repository you need to open or clone:
 
 ```sh
 $ git clone https://github.com/4GeeksAcademy/vanillajs-hello
